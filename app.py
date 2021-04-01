@@ -14,6 +14,8 @@ def text_search(search_term):
     URL = "https://en.wikipedia.org/w/api.php"
 
     SEARCHPAGE = str(search_term)
+    if SEARCHPAGE == '':
+        SEARCHPAGE = str('Tom holland')
 
     PARAMS = {
         "action": "query",
