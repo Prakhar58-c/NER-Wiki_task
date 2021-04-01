@@ -16,3 +16,6 @@ Just enter any term you want to search about, and some general details from the 
 There was no mention of the maximum word limit for data to be scrapped, also the Sample flow mentioned use of Flask API, but streamlit was more than enough, as we had json response from wikipedia. I would be happy to make any suitable changes. But the live url is getting the task done, like it was mentioned.
 
 Live URL:https://wiki-ner.herokuapp.com/
+
+Some Samples of the website:
+![image](https://user-images.githubusercontent.com/60900660/113256386-bf076b80-92e6-11eb-870d-14f6dddcf599.png)
