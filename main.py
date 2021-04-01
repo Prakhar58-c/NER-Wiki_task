@@ -2,11 +2,8 @@
 #from spacy import displacy
 from collections import Counter
 import requests
-from bs4 import BeautifulSoup
 import random
-import en_core_web_sm
 #from pprint import pprint
-import spacy_streamlit
 
 # model for NER
 ##nlp = en_core_web_sm.load()

@@ -3,7 +3,6 @@ from spacy import displacy
 from collections import Counter
 import streamlit as st
 import spacy_streamlit
-from bs4 import BeautifulSoup
 import re
 import requests
 
